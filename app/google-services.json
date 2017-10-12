@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "931815144379",
+    "firebase_url": "https://chatdemo-78d34.firebaseio.com",
+    "project_id": "chatdemo-78d34",
+    "storage_bucket": "chatdemo-78d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931815144379:android:0cf3ae76fb63fbb3",
+        "android_client_info": {
+          "package_name": "com.example.leomossi.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931815144379-s3e72l70lbd1hpnd2jnim8mnstcmcga7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsbWwEiqHidMDIhVK3BNCzwLzD0VyX2Qk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
